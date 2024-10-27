@@ -1,0 +1,3 @@
+Invalid DYSPNEA mapping. Nothing will return 0.
+Check Risk calculation.
+Data files off because of errors.
